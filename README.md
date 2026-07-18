@@ -165,7 +165,7 @@ The dashboard helps answer important business questions such as:
 
 ```
 
-<img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/674e8024-401d-4c1e-ade6-22e86f8dd8ea" />
+<img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/0b8c5a1d-ea03-4580-8443-d76d66a1e69a" />
 
 ```
 
