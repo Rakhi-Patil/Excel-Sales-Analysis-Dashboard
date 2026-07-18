@@ -163,9 +163,8 @@ The dashboard helps answer important business questions such as:
 
 ## 📷 Dashboard Preview
 
-```
 
-<img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/0b8c5a1d-ea03-4580-8443-d76d66a1e69a" />
+<img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/59b96b5e-5273-415e-aa16-6d16b0d60dda" />
 
 ```
 
