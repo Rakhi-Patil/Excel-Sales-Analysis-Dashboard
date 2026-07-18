@@ -20,14 +20,13 @@ The dashboard provides valuable business insights into sales performance, profit
 
 ## 📂 Repository Structure
 
-```
+```text
 Sales-Data-Analysis-Excel/
 │
 ├── README.md
-├── Sales_Data_Analysis.xlsx
-└── Dashboard.png
+├── Excel_Sales_Dashboard.xlsx
+└── Sales_Dashboard_Preview.png
 ```
-
 ---
 
 ## 📋 Dataset Information
@@ -165,7 +164,8 @@ The dashboard helps answer important business questions such as:
 ## 📷 Dashboard Preview
 
 ```
-<img width="1452" height="1276" alt="Dashboard" src="https://github.com/user-attachments/assets/9ad7be73-a753-4ade-855e-97bf251e6ee4" />
+
+<img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/674e8024-401d-4c1e-ade6-22e86f8dd8ea" />
 
 ```
 
