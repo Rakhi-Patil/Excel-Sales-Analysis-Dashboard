@@ -167,9 +167,7 @@ The dashboard helps answer important business questions such as:
 <img width="1452" height="1276" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/59b96b5e-5273-415e-aa16-6d16b0d60dda" />
 
 ```
-
----
-
+```
 ## 📌 Project Workflow
 
 ```
@@ -198,8 +196,10 @@ Business Insights
 
 ## 🚀 Use Case
 
-This project demonstrates practical Microsoft Excel skills for data analysis by transforming raw sales data into an interactive business dashboard. It showcases the complete analytics workflow—from data cleaning and preparation to visualization and insight generation—and can be used as a portfolio project for Data Analyst roles.
+This project demonstrates practical **Microsoft Excel** skills for data analysis by transforming raw sales data into an interactive business dashboard. It showcases the complete analytics workflow—from **data cleaning** and **data preparation** to **pivot table analysis**, **dashboard creation**, and **business insight generation**. This project is suitable for showcasing practical Excel skills in a **Data Analyst portfolio**.
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub. It helps others discover the project and motivates me to create more data analytics projects.
